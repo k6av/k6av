@@ -1,5 +1,6 @@
-### Hi there 👋
+![k6av's Stats](https://github-readme-stats.vercel.app/api?username=k6av&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
+![k6av's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k6av&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **k6av/k6av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
